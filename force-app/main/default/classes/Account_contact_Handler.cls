@@ -1,4 +1,5 @@
 public class Account_contact_Handler {
+    // this code is goodg
     public static void accInsertion(list<account> newlist){
         list<contact> conlist = new list<contact>();
         for(account acc :newlist){ 
